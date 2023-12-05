@@ -1,0 +1,44 @@
+body{
+    padding: 0; 
+    margin: 0;
+    background-color: #FFC40D;
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+#b{
+    margin-top: 15px;
+}
+
+#c{
+    margin-top: 15px;
+}
+
+button{
+    margin-top: 30px;
+    background-color: #233059;
+    color: #ffff;
+    height: 32px;
+    width: 95px;
+    border: none;
+}
+
+.quadrado{
+    width: 50%;
+    height: 300px;
+    background-color: transparent;
+    border:10px  solid black;
+    margin-top: 15%;
+}
+
+.quadrado,
+h1,
+#a,
+#b,
+#c,
+button{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+}
